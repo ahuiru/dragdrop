@@ -1,0 +1,11 @@
+.dragContainer {
+  text-align: center;
+  width: 400px;
+  margin: 50px;
+}
+
+.item {
+  font-size: 25px;
+  margin: 30px;
+  border: 1px solid blue;
+}
